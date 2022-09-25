@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/abhidubey331" target="blank"><img src="https://img.shields.io/twitter/follow/abhidubey331?logo=twitter&style=for-the-badge" alt="abhidubey331" /></a> </p>
 
-- 🔭 I’m currently working on [Asda Grocery App](https://play.google.com/store/apps/details?id=com.asda.android)
+- 🔭 I’m currently working on [Asda Grocery App](https://play.google.com/store/apps/details?id=com.asda.android) & [StockWalls](https://github.com/abhishekdubey331/StockWalls)
+
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
