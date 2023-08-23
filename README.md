@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dubey</h1>
-<h3 align="center">Android Engineer with 6+ years of experience in building top-notch applications.</h3>
+<h3 align="center">Android Engineer with 7+ years of experience in building top-notch applications.</h3>
 <br/><br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <a href="https://twitter.com/abhidubey331" target="blank"><img src="https://img.shields.io/twitter/follow/abhidubey331?logo=twitter&style=for-the-badge" alt="abhidubey331" /></a> </p>
 
-- 🔭 I’m currently working on [Asda Grocery App](https://play.google.com/store/apps/details?id=com.asda.android) & [StockWalls](https://github.com/abhishekdubey331/StockWalls)
-
+- 🔭 I’m currently working at [Greenlight](https://play.google.com/store/apps/details?id=me.greenlight) & [StockWalls](https://github.com/abhishekdubey331/StockWalls)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
