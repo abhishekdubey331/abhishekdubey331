@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dubey</h1>
-<h3 align="center">Android Engineer with 8+ years of experience in building top-notch high performance android apps.</h3>
+<h3 align="center">Senior Android Engineer with 8+ years of experience in Kotlin, Jetpack Compose, and Clean Architecture. Skilled in building high-performance, user-centric mobile apps.</h3>
 <br/><br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
