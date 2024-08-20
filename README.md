@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dubey</h1>
-<h3 align="center">Android Engineer with 7+ years of experience in building top-notch applications.</h3>
+<h3 align="center">Android Engineer with 8+ years of experience in building top-notch high performance android apps.</h3>
 <br/><br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [Greenlight](https://play.google.com/store/apps/details?id=me.greenlight) & [StockWalls](https://github.com/abhishekdubey331/StockWalls)
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 Building in **Jetpack Compose**
 
 - 💬 Ask me about **Android Development, Kotlin, Coroutines, Flow, Hilt, Dagger2**
 
