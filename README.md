@@ -1,65 +1,70 @@
-<h1 align="center">Hi 👋, I'm Abhishek Dubey</h1>
-<h3 align="center">Senior Android Engineer with 8+ years of experience in Kotlin, Jetpack Compose, and Clean Architecture. Skilled in building high-performance, user-centric mobile apps.</h3>
-<br/><br/>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-<p align="left"> 
-  <a href="https://twitter.com/abhidubey331" target="blank">
-    <img src="https://img.shields.io/twitter/follow/abhidubey331?logo=twitter&style=for-the-badge" alt="abhidubey331" />
-  </a> 
-</p>
+# Hi, I'm Abhishek Dubey 👋
 
-- 🔭 I’m currently working at [Greenlight](https://play.google.com/store/apps/details?id=me.greenlight) & [StockWalls](https://github.com/abhishekdubey331/StockWalls)
+### Staff Engineer @ Greenlight · Android · AI Tooling
 
-- 🌱 Building in **Jetpack Compose**
+**9+ years** building Android apps in **Kotlin, Jetpack Compose & Clean Architecture**.
+Now exploring **AI tooling, MCP servers, and LLM-assisted product workflows.**
 
-- 🛠️ **Tech stack proficiency**: Kotlin, Java, Android SDK, Jetpack Compose, Coroutines, Flow, Hilt, Retrofit, Room, RxJava2, and Firebase BOM.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekdubey331)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhishekdubey331)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhidubey331)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekdubey331@gmail.com)
 
-- 💬 Ask me about **Android Development, Kotlin, Jetpack Compose, Coroutines, Flow, Hilt, Dagger2, Clean Architecture, Modularization, Testing with JUnit, Espresso, and Mockito**.
+</div>
 
-- 📈 Experienced in creating **high-quality apps** that scale to millions of users, maintaining crash-free session rates over **99%**.
+---
 
-- 👨‍🏫 Mentored junior engineers, improving their technical skills and collaboration abilities.
+### About
 
-- 📫 How to reach me **abhishekdubey331@gmail.com**
+- 🏗️ **Staff Engineer at [Greenlight](https://play.google.com/store/apps/details?id=me.greenlight)** — shipping high-quality Android apps to millions of users with **99%+ crash-free** sessions
+- 🤖 Building AI-powered dev tools: **[ReviewRadar](https://github.com/abhishekdubey331/ReviewRadar)** (app-store reviews → product intelligence) and **[google-play-screenshot-skill](https://github.com/abhishekdubey331/google-play-screenshot-skill)** (AI-assisted ASO assets)
+- 📱 Side project: **[StockWalls](https://github.com/abhishekdubey331/StockWalls)** — Jetpack Compose
+- 👨‍🏫 Mentor junior engineers on architecture, testing, and code quality
+- ✍️ I write on [Medium](https://medium.com/@abhishekdubey331) about Android, Kotlin, and AI engineering
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/abhidubey331" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhidubey331" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/abhishekdubey331" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhidubey331" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@abhishekdubey331" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhishekdubey331" height="30" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://developer.android.com/images/logos/jetpack-compose.svg" alt="jetpack-compose" width="40" height="40"/>
-  </a>
-</p>
+### 🛠️ Tech Stack
+
+**Mobile:** ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Architecture & Libs:** Clean Architecture · Modularization · Coroutines · Flow · Hilt · Retrofit · Room · RxJava2 · Firebase
+
+**Testing:** JUnit · Espresso · Mockito · Turbine
+
+**AI / Backend:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) MCP · LLM pipelines · Vector search
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Build a Review Analytics MCP Server with TypeScript, Rules, LLMs, and Vector Search](https://medium.com/towards-artificial-intelligence/build-a-review-analytics-mcp-server-with-typescript-rules-llms-and-vector-search-15a6297e5f2a)
+- [Seamless Real-Time Location Tracking with gRPC, Kotlin & Jetpack Compose](https://medium.com/proandroiddev/building-a-real-time-location-streaming-service-with-grpc-and-kotlin-a-better-alternative-to-62563f518cc8)
+- [Boost Developer Efficiency: Automate Android Login Workflows with ADB and Python](https://medium.com/proandroiddev/effortless-account-switching-automate-your-android-app-login-flow-with-python-and-adb-8a5aea83924d)
+- [Event-Driven Solution in Android Without BroadcastReceiver](https://medium.com/@abhishekdubey331/building-an-event-driven-solution-in-android-without-broadcastreceiver-9ca59c4a0dbf)
+- [Harnessing the Power of Kotlin Flow: Effortlessly Fetch User Location](https://medium.com/proandroiddev/fetching-user-location-using-kotlin-flow-6121557fc7b7)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [Read more on Medium](https://medium.com/@abhishekdubey331)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/abhishekdubey331">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekdubey331&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4c8eda&icon_color=4c8eda&text_color=8b949e&bg_color=00000000" alt="Abhishek's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdubey331&layout=compact&hide_border=true&title_color=4c8eda&text_color=8b949e&bg_color=00000000" alt="Top languages" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ <i>Crafting captivating digital experiences through the artistry of programming.</i></sub>
+</div>
