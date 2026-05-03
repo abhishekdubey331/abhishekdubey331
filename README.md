@@ -36,7 +36,6 @@ Currently exploring **MCP servers** and **LLM-assisted developer tools**.
 <div align="center">
 
 <a href="https://github.com/abhishekdubey331">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abhishekdubey331&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4c8eda&icon_color=4c8eda&text_color=8b949e&bg_color=00000000" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdubey331&layout=compact&hide_border=true&title_color=4c8eda&text_color=8b949e&bg_color=00000000" alt="Top languages" />
 </a>
 
