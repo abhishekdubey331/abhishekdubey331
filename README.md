@@ -2,10 +2,11 @@
 
 # Hi, I'm Abhishek Dubey 👋
 
-### Android · Kotlin · AI-assisted developer tooling
+### Everything mobile — Android, Kotlin & AI-assisted developer tooling
 
-9+ years shipping Android apps in **Kotlin** and **Jetpack Compose**.
-Currently building **MCP servers** and **LLM-assisted developer tools**.
+9+ years building mobile apps — deep in **Android** (Kotlin, Jetpack Compose) with
+**cross-platform (iOS + Android)** experience. Currently building **MCP servers**
+and **LLM-assisted developer tools**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekdubey331)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhishekdubey331)
@@ -15,7 +16,7 @@ Currently building **MCP servers** and **LLM-assisted developer tools**.
 
 ---
 
-- 🏗️ Building Android at **[Greenlight](https://play.google.com/store/apps/details?id=me.greenlight)** — financial app for families
+- 🏗️ Building mobile at **[Greenlight](https://play.google.com/store/apps/details?id=me.greenlight)** — financial app for families
 - 🤖 Recent open-source: **[ReviewRadar](https://github.com/abhishekdubey331/ReviewRadar)** (MCP server for app-store review intelligence) and **[google-play-screenshot-skill](https://github.com/abhishekdubey331/google-play-screenshot-skill)** (AI-assisted ASO assets)
 - ✍️ I write on [Medium](https://medium.com/@abhishekdubey331) about Android, Kotlin, and AI engineering
 
