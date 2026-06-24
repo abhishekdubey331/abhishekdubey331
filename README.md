@@ -2,10 +2,10 @@
 
 # Hi, I'm Abhishek Dubey 👋
 
-### Staff Engineer @ Greenlight · Android & AI Tooling
+### Android · Kotlin · AI-assisted developer tooling
 
 9+ years shipping Android apps in **Kotlin** and **Jetpack Compose**.
-Currently exploring **MCP servers** and **LLM-assisted developer tools**.
+Currently building **MCP servers** and **LLM-assisted developer tools**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekdubey331)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhishekdubey331)
