@@ -2,11 +2,11 @@
 
 # Hi, I'm Abhishek Dubey 👋
 
-### Everything mobile — Android, Kotlin & AI-assisted developer tooling
+### Everything mobile · building agentic AI applications
 
 9+ years building mobile apps — deep in **Android** (Kotlin, Jetpack Compose) with
-**cross-platform (iOS + Android)** experience. Currently building **MCP servers**
-and **LLM-assisted developer tools**.
+**cross-platform (iOS + Android)** experience. Now building **agentic AI applications** —
+autonomous agents, **MCP servers**, and **LLM-powered pipelines**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekdubey331)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhishekdubey331)
